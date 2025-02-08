@@ -1,0 +1,1 @@
+This repository demonstrates a potential data overflow bug in a COBOL program. The variable `MY-VAR` is declared with a size that might not be sufficient to handle all possible arithmetic operations.  The solution demonstrates how to handle potential overflow situations using a larger data type or adding checks.
